@@ -1,0 +1,5 @@
+El formato de cada persojes esta en .fuse que es el formato predifinido del software Fuse adobe
+Se requiere el programa Fuse para poder editarlos o exportar.
+
+Software
+https://store.steampowered.com/app/257400/Fuse/
